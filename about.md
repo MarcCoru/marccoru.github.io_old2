@@ -2,28 +2,20 @@
 layout: page
 title: About
 ---
+<div align="left">
+  <img width="50%" align="right" src="{{site.url}}about/marc2.jpg" />
+  <img width="50%" align="left" src="{{site.url}}about/marc.jpg" />
+</div>
+## .
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Interests
+I am curious about machine learning, remote sensing, history, cultures, travels and the world in general.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Summary
+I studied Geodesy and Geoinformation at Technical University of Munich (TUM), then joined the Ph.D. program (2018-2021) at the TUM Chair of Remote Sensing of Technology advised by Marco Körner and Professor Bamler.
+I participaged in the Frontier Development Lab in 2018 and did research stays at the OBELIX IRISA lab (2019) and Stanford Lobell Lab (2020).
+In Sept 2021 I joined Professor Devis Tuia at the EPFL-ECEO Lab in Sion, Switzerland.
 
-There are currently two themes built on Poole:
+## Contact
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+For questions and inquiries, ping me via `marc.russwurm@epfl.ch`
