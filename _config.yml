@@ -2,7 +2,7 @@
 title:               Marc Rußwurm
 tagline:             'Research Associate at EPFL-ECEO'
 description:         'Interested in Earth, Satellites, and the entire world. Contact me via marc.russwurm at epfl.ch'
-url:                 http://127.0.0.1:4000/ #https://marccoru.github.io/
+url:                 https://marcrusswurm.com #https://marccoru.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
